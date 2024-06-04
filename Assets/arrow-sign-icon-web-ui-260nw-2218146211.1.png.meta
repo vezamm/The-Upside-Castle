@@ -1,0 +1,1389 @@
+fileFormatVersion: 2
+guid: ab8ae6ed8f18c2c4ca577135f18255a2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 248
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e44ed637dbb444f889486537dca987
+      internalID: -2017673746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 253
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950681b7d35234e47a85577d5b6a3f5c
+      internalID: -2101708986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 248
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56004de5c328b548b203148c4c6fdd5
+      internalID: -1198868897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 258
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8613d7fd3e59f04dac8d8e96258b88e
+      internalID: 20354995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 248
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd6bc148ba17d14789ac5d11a4d4479
+      internalID: -1275755401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_5
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 258
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0a2271623502c468e5329221857206
+      internalID: 363716601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 248
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0b4534408c7d74baf3102b910a2099
+      internalID: 657482968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 249
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18364f5a8d11c5e4cb3230f73ce95189
+      internalID: -1898768310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 258
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c856b94a15e225f4c93f366301e4e828
+      internalID: -2004980255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 220
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2a03a47d995934f95f4be4e9360a57
+      internalID: 2029123077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 220
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c9ac6619aaf8a46bc1039d03fc5e35
+      internalID: -197408630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 220
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5bfa7b6a89252479fa388e6347eafe
+      internalID: 1345432639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 220
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8356785897fdb1439b0d67e59c2fbf8
+      internalID: -544522408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 220
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55aae136ffdf2446962ec29f7afbd96
+      internalID: 1976639086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 220
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9107daecb17d0ce469bb32b6d4543dcc
+      internalID: -1740026403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_15
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 220
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9deec138fb4ed4f9226bcd940216c3
+      internalID: 215891709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 220
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3779ca05105b1d478011269d4b5e9e2
+      internalID: -133842664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 183
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022d7b3a0460507489bf2c0703dd274d
+      internalID: 676462248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 183
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1560ab7b9484fd43a29d63bd35c86fe
+      internalID: 2115933496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 183
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1cf79172e3baf40870dcea61458aa0
+      internalID: -450541560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_20
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 188
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96eb9e12821b74344a0f38663266e75c
+      internalID: 652257146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 194
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8975faefc010cb4ea0246fdbd246b2d
+      internalID: 770161489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_22
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 185
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8461f6f505613a64eb56c3fed2afa1ee
+      internalID: 821909187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_23
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 194
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f906faa67144afa408d970f6b7228600
+      internalID: 231955935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_24
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 187
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8e372fe8ce9e84ebff7e560aad91c5
+      internalID: -1772618471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_25
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 185
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40541fb12c26e1d49a13f59569384019
+      internalID: -990530563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_26
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 192
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ce92241519c354da45c7ff02cf13dc
+      internalID: -2002791580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 147
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b065804acf5a64d8ff492d0c8e8341
+      internalID: 2077666477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_28
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 149
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fabeaf0a2d0f84db7f13e1a6731439
+      internalID: -792464928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_29
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 152
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58c9755b33d2554ba2475537bc20821
+      internalID: -1292161334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 148
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ab6d15800250d4495519787d831d55
+      internalID: -607010638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_31
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 148
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8390edf196e5bc641b48691cd6bb564b
+      internalID: 781323313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_32
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 146
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847c8248bac9ccf4f9bf9c3753a65cdd
+      internalID: 952316397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_33
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 145
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04591a2843d543479d0cf5683eca9c9
+      internalID: -422477440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 106
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7eb633f808d9b4a90b553c64211247
+      internalID: -971252093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_35
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 106
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d6b8efbf3be51449aeb22d38f5bdde
+      internalID: 404425711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_36
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 106
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0a2ffbd4584f141a5b0f6b81a391b9
+      internalID: 129410710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 106
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955bacc44d46b6a489ecc9607ace6f84
+      internalID: -508280858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 106
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197bd82f7137b8f44a43e9bafd4dfd34
+      internalID: -1713442447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_39
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 111
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49f20894a8275649b3cf3efdf0162f5
+      internalID: -1830978269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_40
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 105
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47277996f95bf34448ebc526b95aa2ce
+      internalID: -1663076636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_41
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 101
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231c6c18c9cf42f4fb0f4a4a3b9eb2b5
+      internalID: 809234462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 67
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae4bbad4d142e4438a71cf34d7a9d1b
+      internalID: -789607821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_43
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 69
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ae7eaf5425cb14aaf739067321f18f
+      internalID: -516288626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_44
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 68
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927234947f98abe46a723d48d49e0f36
+      internalID: -318706975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_45
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 68
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bdaa494a654724c88bfe6611cdbe89
+      internalID: -65829612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_46
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 67
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7eb6bf745e2324095a962d42490057
+      internalID: -1009381220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_47
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 66
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1da0947ca3cbf2498239a3a173e4345
+      internalID: 149666386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 28
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b857926662f294b4fb20261ff06d9bc1
+      internalID: 2107553965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_49
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 30
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db96e7d44dbea1458aad35c2ce514f6
+      internalID: 1298895157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_50
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 34
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0443af9f8a7b3db46b562c7af8a49e98
+      internalID: 1858537449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_51
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 34
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88741b84fbad674682a5a187d3f8294
+      internalID: -560765919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_52
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 35
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a428b9af618e743beb247ed01e21b4
+      internalID: -1681002338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_53
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 32
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8491c465c0f355849b1b0e23f104972f
+      internalID: 890092438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_54
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 31
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911a578a67295ae4ea2e3c74dd0117c9
+      internalID: -614577992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_55
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 31
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e26807f7741c64084483aad40f3626
+      internalID: -599430077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow-sign-icon-web-ui-260nw-2218146211.1_56
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 31
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d39d1c3146b40b4c93e3301bf10685d
+      internalID: 1025929473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      arrow-sign-icon-web-ui-260nw-2218146211.1_0: -2017673746
+      arrow-sign-icon-web-ui-260nw-2218146211.1_1: -2101708986
+      arrow-sign-icon-web-ui-260nw-2218146211.1_10: -197408630
+      arrow-sign-icon-web-ui-260nw-2218146211.1_11: 1345432639
+      arrow-sign-icon-web-ui-260nw-2218146211.1_12: -544522408
+      arrow-sign-icon-web-ui-260nw-2218146211.1_13: 1976639086
+      arrow-sign-icon-web-ui-260nw-2218146211.1_14: -1740026403
+      arrow-sign-icon-web-ui-260nw-2218146211.1_15: 215891709
+      arrow-sign-icon-web-ui-260nw-2218146211.1_16: -133842664
+      arrow-sign-icon-web-ui-260nw-2218146211.1_17: 676462248
+      arrow-sign-icon-web-ui-260nw-2218146211.1_18: 2115933496
+      arrow-sign-icon-web-ui-260nw-2218146211.1_19: -450541560
+      arrow-sign-icon-web-ui-260nw-2218146211.1_2: -1198868897
+      arrow-sign-icon-web-ui-260nw-2218146211.1_20: 652257146
+      arrow-sign-icon-web-ui-260nw-2218146211.1_21: 770161489
+      arrow-sign-icon-web-ui-260nw-2218146211.1_22: 821909187
+      arrow-sign-icon-web-ui-260nw-2218146211.1_23: 231955935
+      arrow-sign-icon-web-ui-260nw-2218146211.1_24: -1772618471
+      arrow-sign-icon-web-ui-260nw-2218146211.1_25: -990530563
+      arrow-sign-icon-web-ui-260nw-2218146211.1_26: -2002791580
+      arrow-sign-icon-web-ui-260nw-2218146211.1_27: 2077666477
+      arrow-sign-icon-web-ui-260nw-2218146211.1_28: -792464928
+      arrow-sign-icon-web-ui-260nw-2218146211.1_29: -1292161334
+      arrow-sign-icon-web-ui-260nw-2218146211.1_3: 20354995
+      arrow-sign-icon-web-ui-260nw-2218146211.1_30: -607010638
+      arrow-sign-icon-web-ui-260nw-2218146211.1_31: 781323313
+      arrow-sign-icon-web-ui-260nw-2218146211.1_32: 952316397
+      arrow-sign-icon-web-ui-260nw-2218146211.1_33: -422477440
+      arrow-sign-icon-web-ui-260nw-2218146211.1_34: -971252093
+      arrow-sign-icon-web-ui-260nw-2218146211.1_35: 404425711
+      arrow-sign-icon-web-ui-260nw-2218146211.1_36: 129410710
+      arrow-sign-icon-web-ui-260nw-2218146211.1_37: -508280858
+      arrow-sign-icon-web-ui-260nw-2218146211.1_38: -1713442447
+      arrow-sign-icon-web-ui-260nw-2218146211.1_39: -1830978269
+      arrow-sign-icon-web-ui-260nw-2218146211.1_4: -1275755401
+      arrow-sign-icon-web-ui-260nw-2218146211.1_40: -1663076636
+      arrow-sign-icon-web-ui-260nw-2218146211.1_41: 809234462
+      arrow-sign-icon-web-ui-260nw-2218146211.1_42: -789607821
+      arrow-sign-icon-web-ui-260nw-2218146211.1_43: -516288626
+      arrow-sign-icon-web-ui-260nw-2218146211.1_44: -318706975
+      arrow-sign-icon-web-ui-260nw-2218146211.1_45: -65829612
+      arrow-sign-icon-web-ui-260nw-2218146211.1_46: -1009381220
+      arrow-sign-icon-web-ui-260nw-2218146211.1_47: 149666386
+      arrow-sign-icon-web-ui-260nw-2218146211.1_48: 2107553965
+      arrow-sign-icon-web-ui-260nw-2218146211.1_49: 1298895157
+      arrow-sign-icon-web-ui-260nw-2218146211.1_5: 363716601
+      arrow-sign-icon-web-ui-260nw-2218146211.1_50: 1858537449
+      arrow-sign-icon-web-ui-260nw-2218146211.1_51: -560765919
+      arrow-sign-icon-web-ui-260nw-2218146211.1_52: -1681002338
+      arrow-sign-icon-web-ui-260nw-2218146211.1_53: 890092438
+      arrow-sign-icon-web-ui-260nw-2218146211.1_54: -614577992
+      arrow-sign-icon-web-ui-260nw-2218146211.1_55: -599430077
+      arrow-sign-icon-web-ui-260nw-2218146211.1_56: 1025929473
+      arrow-sign-icon-web-ui-260nw-2218146211.1_6: 657482968
+      arrow-sign-icon-web-ui-260nw-2218146211.1_7: -1898768310
+      arrow-sign-icon-web-ui-260nw-2218146211.1_8: -2004980255
+      arrow-sign-icon-web-ui-260nw-2218146211.1_9: 2029123077
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
